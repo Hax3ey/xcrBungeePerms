@@ -1,0 +1,8 @@
+config:
+  mysql:
+    host: ""
+    base: ""
+    user: ""
+    pass: ""
+  redis:
+    host: ""

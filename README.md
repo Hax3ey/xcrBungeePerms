@@ -1,7 +1,5 @@
 # xcrBungeePerms
 
-Plugin służy do zarządzania permisjami graczy z poziomu BungeeCord'a zarówno na proxy jak i na serwerach Spigot, które są pod nim. Wszystkie permisje, grupy, zależności i gracze są zapisywani w bazie danych, w razie potrzeby ładowani do pamięci i synchronizowani między proxy, a instancjami serwerów.
-
 ## Co i jak?
 
 Pluginy udostępniam, bo i tak leżą na dysku a w MC nie będę się już bawić. Wszystko działało z wersjami 1.7/1.8, jednak, gdy ktoś znajdzie jakiegoś buga niech zrobi zgłoszenie i dokładnie go opisze. Na wszelkie nowe funkcjonalności robicie Pull request'a, jak ktoś je sprawdzi to wtedy zostaną dodane. Wszystkie nowości zmieniające rozgrywkę najlepiej jak będą możliwe do wyłączenia w configu.
